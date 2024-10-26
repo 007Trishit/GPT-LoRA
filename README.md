@@ -1,4 +1,4 @@
-# Project Title: GPT1-LoRA:
+## Project Title: GPT1-LoRA
   
 *  Designed and developed a decoder-based Generative Pretrained Transformer (GPT) model from scratch, achieving a 78% reduction in training loss (from 4.37 to 0.94) through the implementation of multi-headed attention, positional encoding, and dropout with layer normalization.
   
